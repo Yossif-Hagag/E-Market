@@ -1,0 +1,42 @@
+﻿body {
+    background-color: #1b1a1a;
+    margin: 0;
+    height: 100vh;
+}
+
+.navbar {
+    border: solid 1px #fff;
+    margin: 0;
+}
+
+#home {
+    height: 508px;
+    background-image: url(../images/background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+    #home .overlay {
+        position: absolute;
+        top: 0;
+        left: 0;
+        height: 508px;
+        background-color: rgba(41,41,41,0.8);
+        width: 100%;
+    }
+
+        #home .overlay h1 {
+            text-align: center;
+            margin: 12rem 0 0 0;
+            color: #fff;
+            font: normal 400 70px/normal serif;
+        }
+
+            #home .overlay h1 span {
+                color: #3498db;
+            }
+
+hr {
+    margin: 0;
+}

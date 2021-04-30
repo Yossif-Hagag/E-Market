@@ -1,0 +1,77 @@
+﻿@model emarket.ViewModels.ProductCartViewModel
+@{
+    ViewBag.Title = "Products";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewBag.style = @Styles.Render("~/Content/Indexx.css");
+}
+@**@
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header justify-content-around">
+                <h3 class="modal-title" id="exampleModalLabel">Cart List</h3>
+                </button>
+            </div>
+            <div class="modal-body">
+                <table class="table-row">
+                    @foreach (var item in Model.carts)
+                    {
+                        <tr class="row" id="row">
+                            <td class="btn-row">
+                                <a href=" @Url.Action("Remove", "Cart", new { id = item.product_id })" class="link">REMOVE</a>
+                            </td>
+                            <td id="hello">@Html.DisplayFor(modelItem => item.Product.name)</td>
+                            <td id="hello">@Html.DisplayFor(modelItem => item.Product.price)</td>
+                            <td id="hello">@Html.DisplayFor(modelItem => item.Product.Cart.added_at)</td>
+                        </tr>
+                    }
+                </table>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+@**@
+<div style="display: flex;justify-content: space-around;align-items: center;" class="mt-3">
+    <button type="button" class="btn btn-success btn-lg">
+        <!--first parameter controller, then method-->
+        <a href="~/Products/Create" style="color:#fff;text-decoration:none;">Add Product</a>
+    </button>
+
+    @using (Html.BeginForm("Index", "products", FormMethod.Get))
+    {
+        @Html.TextBox("searching")<input type="submit" value="Filter" class="btn btn-danger ml-2" />
+
+    }
+
+    <button type="button btn-lg" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal" style="float:right">
+        View Cart
+    </button>
+</div>
+<hr class="mb-5" />
+<div class="container body-content" style="min-height: 349px;">
+    <div class="row">
+        @foreach (var item in Model.products)
+        {
+            <div class="col-md-3 card mb-5" style="margin:20px;padding:20px">
+                <a href="~/Products/Details/@item.id" style="text-decoration:none;">
+                    <div class="card mb-5" style="text-align:center;">
+                        <div class="card-header">@item.name</div>
+                        <div class="card-img" style="min-height:200px;">
+                            <img src="~/images/products/@item.image" alt="Pic" style="width:100%;height:200px;" />
+                        </div>
+                        <div class="card-footer">Price : @item.price</div>
+                    </div>
+                </a>
+                <!--first parameter the name of the method then the controller-->
+                <a href="@Url.Action("AddToCart","Cart",new { id=item.id} )" class="btn btn-primary btn-secondary fa-shopping-cart" style="margin-top:-30px">Add To Cart</a>
+            </div>
+        }
+    </div>
+</div>

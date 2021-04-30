@@ -1,0 +1,31 @@
+﻿@model emarket.Models.Product
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+    <div class="container body-content" style="min-height: 478px;">
+        <div class="row">
+            <div class="col-md-2"></div>
+            <div class="col-md-8 col-sm-12">
+                <div class="card mt-5">
+                    <div class="card-header d-flex justify-content-around">
+                        <div>@Model.name - @Model.price EGP (@Model.Category.name)</div>
+                    </div>
+                    <div class="card-body">
+                        @if (Model.image != null)
+                        {
+                            <div class="card-img-top"><img src="~/images/products/@Model.image" style="width:100%;"/></div>
+                        }
+                        <hr />
+                        <h4>Dscription of @Model.name</h4>
+                        <div class="blockquote">@Model.description</div>
+                    </div>
+                    <div class="card-footer d-flex justify-content-around">
+                        @Html.ActionLink("Update", "Update","Products", new { id = Model.id }, new { @class = "btn btn-primary" })
+                        @Html.ActionLink("Delete", "Delete","Products", new { id = Model.id }, new { @class = "btn btn-danger" })
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>

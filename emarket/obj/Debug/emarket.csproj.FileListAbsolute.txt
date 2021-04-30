@@ -1,0 +1,1225 @@
+E:\emarket\bin\emarket.dll.config
+E:\emarket\bin\emarket.dll
+E:\emarket\bin\emarket.pdb
+E:\emarket\bin\roslyn\csc.exe
+E:\emarket\bin\roslyn\csc.exe.config
+E:\emarket\bin\roslyn\csc.rsp
+E:\emarket\bin\roslyn\csi.exe
+E:\emarket\bin\roslyn\csi.exe.config
+E:\emarket\bin\roslyn\csi.rsp
+E:\emarket\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\emarket\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\emarket\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\emarket\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\emarket\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\emarket\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\emarket\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\emarket\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\emarket\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\emarket\bin\roslyn\Microsoft.Managed.Core.targets
+E:\emarket\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\emarket\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\emarket\bin\roslyn\System.AppContext.dll
+E:\emarket\bin\roslyn\System.Collections.Immutable.dll
+E:\emarket\bin\roslyn\System.Console.dll
+E:\emarket\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\emarket\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\emarket\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\emarket\bin\roslyn\System.Globalization.Calendars.dll
+E:\emarket\bin\roslyn\System.IO.Compression.dll
+E:\emarket\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\emarket\bin\roslyn\System.IO.FileSystem.dll
+E:\emarket\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\emarket\bin\roslyn\System.Net.Http.dll
+E:\emarket\bin\roslyn\System.Net.Sockets.dll
+E:\emarket\bin\roslyn\System.Reflection.Metadata.dll
+E:\emarket\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\emarket\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\emarket\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\emarket\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\emarket\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\emarket\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\emarket\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\emarket\bin\roslyn\System.ValueTuple.dll
+E:\emarket\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\emarket\bin\roslyn\System.Xml.XmlDocument.dll
+E:\emarket\bin\roslyn\System.Xml.XPath.dll
+E:\emarket\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\emarket\bin\roslyn\vbc.exe
+E:\emarket\bin\roslyn\vbc.exe.config
+E:\emarket\bin\roslyn\vbc.rsp
+E:\emarket\bin\roslyn\VBCSCompiler.exe
+E:\emarket\bin\roslyn\VBCSCompiler.exe.config
+E:\emarket\bin\Antlr3.Runtime.dll
+E:\emarket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\emarket\bin\Microsoft.Web.Infrastructure.dll
+E:\emarket\bin\Newtonsoft.Json.dll
+E:\emarket\bin\System.Web.Helpers.dll
+E:\emarket\bin\System.Web.Mvc.dll
+E:\emarket\bin\System.Web.Optimization.dll
+E:\emarket\bin\System.Web.Razor.dll
+E:\emarket\bin\System.Web.WebPages.Deployment.dll
+E:\emarket\bin\System.Web.WebPages.dll
+E:\emarket\bin\System.Web.WebPages.Razor.dll
+E:\emarket\bin\WebGrease.dll
+E:\emarket\bin\System.Web.Helpers.xml
+E:\emarket\bin\System.Web.Mvc.xml
+E:\emarket\bin\System.Web.Optimization.xml
+E:\emarket\bin\System.Web.Razor.xml
+E:\emarket\bin\System.Web.WebPages.xml
+E:\emarket\bin\System.Web.WebPages.Deployment.xml
+E:\emarket\bin\System.Web.WebPages.Razor.xml
+E:\emarket\bin\Newtonsoft.Json.xml
+E:\emarket\bin\Antlr3.Runtime.pdb
+E:\emarket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\emarket\obj\Debug\emarket.csprojAssemblyReference.cache
+E:\emarket\obj\Debug\emarket.csproj.CopyComplete
+E:\emarket\obj\Debug\emarket.dll
+E:\emarket\obj\Debug\emarket.pdb
+E:\emarket\bin\EntityFramework.dll
+E:\emarket\bin\EntityFramework.SqlServer.dll
+E:\emarket\bin\EntityFramework.xml
+E:\emarket\bin\EntityFramework.SqlServer.xml
+E:\emarket\bin\Microsoft.Data.Tools.Components.dll
+E:\emarket\bin\Microsoft.Data.Tools.Contracts.dll
+E:\emarket\bin\Microsoft.Data.Tools.Schema.Sql.dll
+E:\emarket\bin\Microsoft.Data.Tools.Schema.Tasks.Sql.dll
+E:\emarket\bin\Microsoft.Data.Tools.Schema.Utilities.Sql.dll
+E:\emarket\bin\Microsoft.Data.Tools.Utilities.dll
+E:\emarket\bin\Microsoft.SqlServer.ConnectionInfo.dll
+E:\emarket\bin\Microsoft.SqlServer.Dac.dll
+E:\emarket\bin\Microsoft.SqlServer.Dac.Extensions.dll
+E:\emarket\bin\Microsoft.SqlServer.SqlClrProvider.dll
+E:\emarket\bin\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+E:\emarket\bin\sqlpackage.exe
+E:\emarket\bin\Microsoft.Build.Utilities.Core.dll
+E:\emarket\bin\Microsoft.Build.Framework.dll
+E:\emarket\bin\Microsoft.Build.dll
+E:\emarket\bin\System.Collections.Immutable.dll
+E:\emarket\bin\System.Memory.dll
+E:\emarket\bin\System.Threading.Tasks.Dataflow.dll
+E:\emarket\bin\System.Numerics.Vectors.dll
+E:\emarket\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\emarket\bin\System.Buffers.dll
+E:\emarket\bin\Microsoft.SqlServer.Dac.xml
+E:\emarket\bin\Microsoft.SqlServer.Dac.Extensions.xml
+E:\emarket\bin\sqlpackage.exe.config
+E:\emarket\bin\br\Microsoft.Data.Tools.Components.resources.dll
+E:\emarket\bin\de\Microsoft.Data.Tools.Components.resources.dll
+E:\emarket\bin\es\Microsoft.Data.Tools.Components.resources.dll
+E:\emarket\bin\fr\Microsoft.Data.Tools.Components.resources.dll
+E:\emarket\bin\it\Microsoft.Data.Tools.Components.resources.dll
+E:\emarket\bin\ja\Microsoft.Data.Tools.Components.resources.dll
+E:\emarket\bin\ko\Microsoft.Data.Tools.Components.resources.dll
+E:\emarket\bin\ru\Microsoft.Data.Tools.Components.resources.dll
+E:\emarket\bin\br\Microsoft.Data.Tools.Schema.Sql.resources.dll
+E:\emarket\bin\de\Microsoft.Data.Tools.Schema.Sql.resources.dll
+E:\emarket\bin\es\Microsoft.Data.Tools.Schema.Sql.resources.dll
+E:\emarket\bin\fr\Microsoft.Data.Tools.Schema.Sql.resources.dll
+E:\emarket\bin\it\Microsoft.Data.Tools.Schema.Sql.resources.dll
+E:\emarket\bin\ja\Microsoft.Data.Tools.Schema.Sql.resources.dll
+E:\emarket\bin\ko\Microsoft.Data.Tools.Schema.Sql.resources.dll
+E:\emarket\bin\ru\Microsoft.Data.Tools.Schema.Sql.resources.dll
+E:\emarket\bin\br\Microsoft.Data.Tools.Schema.Tasks.Sql.resources.dll
+E:\emarket\bin\de\Microsoft.Data.Tools.Schema.Tasks.Sql.resources.dll
+E:\emarket\bin\es\Microsoft.Data.Tools.Schema.Tasks.Sql.resources.dll
+E:\emarket\bin\fr\Microsoft.Data.Tools.Schema.Tasks.Sql.resources.dll
+E:\emarket\bin\it\Microsoft.Data.Tools.Schema.Tasks.Sql.resources.dll
+E:\emarket\bin\ja\Microsoft.Data.Tools.Schema.Tasks.Sql.resources.dll
+E:\emarket\bin\ko\Microsoft.Data.Tools.Schema.Tasks.Sql.resources.dll
+E:\emarket\bin\ru\Microsoft.Data.Tools.Schema.Tasks.Sql.resources.dll
+E:\emarket\bin\br\Microsoft.Data.Tools.Schema.Utilities.Sql.resources.dll
+E:\emarket\bin\de\Microsoft.Data.Tools.Schema.Utilities.Sql.resources.dll
+E:\emarket\bin\es\Microsoft.Data.Tools.Schema.Utilities.Sql.resources.dll
+E:\emarket\bin\fr\Microsoft.Data.Tools.Schema.Utilities.Sql.resources.dll
+E:\emarket\bin\it\Microsoft.Data.Tools.Schema.Utilities.Sql.resources.dll
+E:\emarket\bin\ja\Microsoft.Data.Tools.Schema.Utilities.Sql.resources.dll
+E:\emarket\bin\ko\Microsoft.Data.Tools.Schema.Utilities.Sql.resources.dll
+E:\emarket\bin\ru\Microsoft.Data.Tools.Schema.Utilities.Sql.resources.dll
+E:\emarket\bin\br\Microsoft.Data.Tools.Utilities.resources.dll
+E:\emarket\bin\de\Microsoft.Data.Tools.Utilities.resources.dll
+E:\emarket\bin\es\Microsoft.Data.Tools.Utilities.resources.dll
+E:\emarket\bin\fr\Microsoft.Data.Tools.Utilities.resources.dll
+E:\emarket\bin\it\Microsoft.Data.Tools.Utilities.resources.dll
+E:\emarket\bin\ja\Microsoft.Data.Tools.Utilities.resources.dll
+E:\emarket\bin\ko\Microsoft.Data.Tools.Utilities.resources.dll
+E:\emarket\bin\ru\Microsoft.Data.Tools.Utilities.resources.dll
+E:\emarket\bin\br\Microsoft.SqlServer.Dac.resources.dll
+E:\emarket\bin\de\Microsoft.SqlServer.Dac.resources.dll
+E:\emarket\bin\es\Microsoft.SqlServer.Dac.resources.dll
+E:\emarket\bin\fr\Microsoft.SqlServer.Dac.resources.dll
+E:\emarket\bin\it\Microsoft.SqlServer.Dac.resources.dll
+E:\emarket\bin\ja\Microsoft.SqlServer.Dac.resources.dll
+E:\emarket\bin\ko\Microsoft.SqlServer.Dac.resources.dll
+E:\emarket\bin\ru\Microsoft.SqlServer.Dac.resources.dll
+E:\emarket\bin\br\sqlpackage.resources.dll
+E:\emarket\bin\de\sqlpackage.resources.dll
+E:\emarket\bin\es\sqlpackage.resources.dll
+E:\emarket\bin\fr\sqlpackage.resources.dll
+E:\emarket\bin\it\sqlpackage.resources.dll
+E:\emarket\bin\ja\sqlpackage.resources.dll
+E:\emarket\bin\ko\sqlpackage.resources.dll
+E:\emarket\bin\ru\sqlpackage.resources.dll
+E:\emarket\bin\cs\Microsoft.Build.Utilities.Core.resources.dll
+E:\emarket\bin\de\Microsoft.Build.Utilities.Core.resources.dll
+E:\emarket\bin\en\Microsoft.Build.Utilities.Core.resources.dll
+E:\emarket\bin\es\Microsoft.Build.Utilities.Core.resources.dll
+E:\emarket\bin\fr\Microsoft.Build.Utilities.Core.resources.dll
+E:\emarket\bin\it\Microsoft.Build.Utilities.Core.resources.dll
+E:\emarket\bin\ja\Microsoft.Build.Utilities.Core.resources.dll
+E:\emarket\bin\ko\Microsoft.Build.Utilities.Core.resources.dll
+E:\emarket\bin\pl\Microsoft.Build.Utilities.Core.resources.dll
+E:\emarket\bin\pt-BR\Microsoft.Build.Utilities.Core.resources.dll
+E:\emarket\bin\ru\Microsoft.Build.Utilities.Core.resources.dll
+E:\emarket\bin\tr\Microsoft.Build.Utilities.Core.resources.dll
+E:\emarket\bin\zh-Hans\Microsoft.Build.Utilities.Core.resources.dll
+E:\emarket\bin\zh-Hant\Microsoft.Build.Utilities.Core.resources.dll
+E:\emarket\bin\cs\Microsoft.Build.resources.dll
+E:\emarket\bin\de\Microsoft.Build.resources.dll
+E:\emarket\bin\en\Microsoft.Build.resources.dll
+E:\emarket\bin\es\Microsoft.Build.resources.dll
+E:\emarket\bin\fr\Microsoft.Build.resources.dll
+E:\emarket\bin\it\Microsoft.Build.resources.dll
+E:\emarket\bin\ja\Microsoft.Build.resources.dll
+E:\emarket\bin\ko\Microsoft.Build.resources.dll
+E:\emarket\bin\pl\Microsoft.Build.resources.dll
+E:\emarket\bin\pt-BR\Microsoft.Build.resources.dll
+E:\emarket\bin\ru\Microsoft.Build.resources.dll
+E:\emarket\bin\tr\Microsoft.Build.resources.dll
+E:\emarket\bin\zh-Hans\Microsoft.Build.resources.dll
+E:\emarket\bin\zh-Hant\Microsoft.Build.resources.dll
+E:\emarket\obj\Debug\emarket.Migrations.InitialMigration.resources
+E:\emarket\obj\Debug\emarket.csproj.GenerateResource.cache
+E:\emarket\obj\Debug\emarket.Migrations.InitialMigration1.resources
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\emarket.dll.config
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\emarket.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\emarket.pdb
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\roslyn\csc.exe
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\roslyn\csc.exe.config
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\roslyn\csc.rsp
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\roslyn\csi.exe
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\roslyn\csi.exe.config
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\roslyn\csi.rsp
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\roslyn\Microsoft.Managed.Core.targets
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\roslyn\System.AppContext.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\roslyn\System.Collections.Immutable.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\roslyn\System.Console.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\roslyn\System.Globalization.Calendars.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\roslyn\System.IO.Compression.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\roslyn\System.IO.FileSystem.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\roslyn\System.Net.Http.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\roslyn\System.Net.Sockets.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\roslyn\System.Reflection.Metadata.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\roslyn\System.ValueTuple.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\roslyn\System.Xml.XmlDocument.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\roslyn\System.Xml.XPath.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\roslyn\vbc.exe
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\roslyn\vbc.exe.config
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\roslyn\vbc.rsp
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\roslyn\VBCSCompiler.exe
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\roslyn\VBCSCompiler.exe.config
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\Antlr3.Runtime.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\EntityFramework.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\EntityFramework.SqlServer.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\Microsoft.Data.Tools.Components.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\Microsoft.Data.Tools.Contracts.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\Microsoft.Data.Tools.Schema.Sql.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\Microsoft.Data.Tools.Schema.Tasks.Sql.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\Microsoft.Data.Tools.Schema.Utilities.Sql.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\Microsoft.Data.Tools.Utilities.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\Microsoft.SqlServer.ConnectionInfo.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\Microsoft.SqlServer.Dac.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\Microsoft.SqlServer.Dac.Extensions.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\Microsoft.SqlServer.SqlClrProvider.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\Microsoft.Web.Infrastructure.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\Newtonsoft.Json.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\sqlpackage.exe
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\System.Web.Helpers.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\System.Web.Mvc.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\System.Web.Optimization.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\System.Web.Razor.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\System.Web.WebPages.Deployment.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\System.Web.WebPages.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\System.Web.WebPages.Razor.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\WebGrease.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\Microsoft.Build.Framework.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\Microsoft.Build.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\Microsoft.Build.Utilities.Core.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\System.Collections.Immutable.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\System.Memory.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\System.Threading.Tasks.Dataflow.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\System.Numerics.Vectors.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\System.Buffers.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\EntityFramework.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\EntityFramework.SqlServer.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\Microsoft.SqlServer.Dac.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\Microsoft.SqlServer.Dac.Extensions.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\sqlpackage.exe.config
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\System.Web.Helpers.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\System.Web.Mvc.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\System.Web.Optimization.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\System.Web.Razor.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\System.Web.WebPages.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\System.Web.WebPages.Deployment.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\System.Web.WebPages.Razor.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\Newtonsoft.Json.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\Antlr3.Runtime.pdb
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\br\Microsoft.Data.Tools.Components.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\de\Microsoft.Data.Tools.Components.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\es\Microsoft.Data.Tools.Components.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\fr\Microsoft.Data.Tools.Components.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\it\Microsoft.Data.Tools.Components.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\ja\Microsoft.Data.Tools.Components.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\ko\Microsoft.Data.Tools.Components.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\ru\Microsoft.Data.Tools.Components.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\br\Microsoft.Data.Tools.Schema.Sql.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\de\Microsoft.Data.Tools.Schema.Sql.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\es\Microsoft.Data.Tools.Schema.Sql.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\fr\Microsoft.Data.Tools.Schema.Sql.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\it\Microsoft.Data.Tools.Schema.Sql.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\ja\Microsoft.Data.Tools.Schema.Sql.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\ko\Microsoft.Data.Tools.Schema.Sql.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\ru\Microsoft.Data.Tools.Schema.Sql.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\br\Microsoft.Data.Tools.Schema.Tasks.Sql.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\de\Microsoft.Data.Tools.Schema.Tasks.Sql.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\es\Microsoft.Data.Tools.Schema.Tasks.Sql.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\fr\Microsoft.Data.Tools.Schema.Tasks.Sql.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\it\Microsoft.Data.Tools.Schema.Tasks.Sql.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\ja\Microsoft.Data.Tools.Schema.Tasks.Sql.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\ko\Microsoft.Data.Tools.Schema.Tasks.Sql.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\ru\Microsoft.Data.Tools.Schema.Tasks.Sql.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\br\Microsoft.Data.Tools.Schema.Utilities.Sql.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\de\Microsoft.Data.Tools.Schema.Utilities.Sql.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\es\Microsoft.Data.Tools.Schema.Utilities.Sql.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\fr\Microsoft.Data.Tools.Schema.Utilities.Sql.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\it\Microsoft.Data.Tools.Schema.Utilities.Sql.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\ja\Microsoft.Data.Tools.Schema.Utilities.Sql.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\ko\Microsoft.Data.Tools.Schema.Utilities.Sql.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\ru\Microsoft.Data.Tools.Schema.Utilities.Sql.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\br\Microsoft.Data.Tools.Utilities.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\de\Microsoft.Data.Tools.Utilities.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\es\Microsoft.Data.Tools.Utilities.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\fr\Microsoft.Data.Tools.Utilities.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\it\Microsoft.Data.Tools.Utilities.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\ja\Microsoft.Data.Tools.Utilities.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\ko\Microsoft.Data.Tools.Utilities.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\ru\Microsoft.Data.Tools.Utilities.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\br\Microsoft.SqlServer.Dac.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\de\Microsoft.SqlServer.Dac.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\es\Microsoft.SqlServer.Dac.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\fr\Microsoft.SqlServer.Dac.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\it\Microsoft.SqlServer.Dac.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\ja\Microsoft.SqlServer.Dac.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\ko\Microsoft.SqlServer.Dac.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\ru\Microsoft.SqlServer.Dac.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\br\sqlpackage.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\de\sqlpackage.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\es\sqlpackage.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\fr\sqlpackage.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\it\sqlpackage.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\ja\sqlpackage.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\ko\sqlpackage.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\ru\sqlpackage.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\cs\Microsoft.Build.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\de\Microsoft.Build.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\en\Microsoft.Build.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\es\Microsoft.Build.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\fr\Microsoft.Build.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\it\Microsoft.Build.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\ja\Microsoft.Build.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\ko\Microsoft.Build.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\pl\Microsoft.Build.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\pt-BR\Microsoft.Build.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\ru\Microsoft.Build.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\tr\Microsoft.Build.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\zh-Hans\Microsoft.Build.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\zh-Hant\Microsoft.Build.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\cs\Microsoft.Build.Utilities.Core.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\de\Microsoft.Build.Utilities.Core.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\en\Microsoft.Build.Utilities.Core.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\es\Microsoft.Build.Utilities.Core.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\fr\Microsoft.Build.Utilities.Core.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\it\Microsoft.Build.Utilities.Core.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\ja\Microsoft.Build.Utilities.Core.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\ko\Microsoft.Build.Utilities.Core.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\pl\Microsoft.Build.Utilities.Core.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\pt-BR\Microsoft.Build.Utilities.Core.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\ru\Microsoft.Build.Utilities.Core.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\tr\Microsoft.Build.Utilities.Core.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\zh-Hans\Microsoft.Build.Utilities.Core.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\zh-Hant\Microsoft.Build.Utilities.Core.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\obj\Debug\emarket.csprojAssemblyReference.cache
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\obj\Debug\emarket.Migrations.InitialMigration.resources
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\obj\Debug\emarket.Migrations.InitialMigration1.resources
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\obj\Debug\emarket.csproj.GenerateResource.cache
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\obj\Debug\emarket.csproj.CopyComplete
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\obj\Debug\emarket.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\obj\Debug\emarket.pdb
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\Microsoft.AspNetCore.Authentication.Core.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\Microsoft.AspNetCore.Authorization.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\Microsoft.AspNetCore.Http.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\Microsoft.AspNetCore.Http.Extensions.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\Microsoft.AspNetCore.Mvc.Core.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\Microsoft.AspNetCore.Routing.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\Microsoft.AspNetCore.WebUtilities.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\Microsoft.DotNet.PlatformAbstractions.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\Microsoft.Extensions.DependencyModel.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\Microsoft.Extensions.ObjectPool.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\Microsoft.Extensions.Options.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\Microsoft.Extensions.Primitives.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\Microsoft.Net.Http.Headers.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\System.ComponentModel.Annotations.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\System.Diagnostics.DiagnosticSource.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\System.Text.Encodings.Web.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\System.Threading.Tasks.Extensions.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\Microsoft.AspNetCore.Authentication.Core.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\Microsoft.AspNetCore.Authorization.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\Microsoft.AspNetCore.Http.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\Microsoft.AspNetCore.Http.Extensions.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\Microsoft.AspNetCore.Mvc.Core.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\Microsoft.AspNetCore.Routing.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\Microsoft.AspNetCore.WebUtilities.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\Microsoft.Extensions.ObjectPool.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\Microsoft.Extensions.Options.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\Microsoft.Extensions.Primitives.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\Microsoft.Net.Http.Headers.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\System.Buffers.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\System.Diagnostics.DiagnosticSource.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\System.Memory.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\System.Numerics.Vectors.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\System.Text.Encodings.Web.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 1\emarket\bin\System.Threading.Tasks.Extensions.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\emarket.dll.config
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\emarket.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\emarket.pdb
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\roslyn\csc.exe
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\roslyn\csc.exe.config
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\roslyn\csc.rsp
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\roslyn\csi.exe
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\roslyn\csi.exe.config
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\roslyn\csi.rsp
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\roslyn\Microsoft.Managed.Core.targets
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\roslyn\System.AppContext.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\roslyn\System.Collections.Immutable.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\roslyn\System.Console.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\roslyn\System.Globalization.Calendars.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\roslyn\System.IO.Compression.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\roslyn\System.IO.FileSystem.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\roslyn\System.Net.Http.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\roslyn\System.Net.Sockets.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\roslyn\System.Reflection.Metadata.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\roslyn\System.ValueTuple.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\roslyn\System.Xml.XmlDocument.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\roslyn\System.Xml.XPath.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\roslyn\vbc.exe
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\roslyn\vbc.exe.config
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\roslyn\vbc.rsp
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\roslyn\VBCSCompiler.exe
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\roslyn\VBCSCompiler.exe.config
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\Antlr3.Runtime.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\EntityFramework.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\EntityFramework.SqlServer.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\Microsoft.AspNetCore.Authentication.Core.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\Microsoft.AspNetCore.Authorization.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\Microsoft.AspNetCore.Http.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\Microsoft.AspNetCore.Http.Extensions.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\Microsoft.AspNetCore.Mvc.Core.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\Microsoft.AspNetCore.Routing.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\Microsoft.AspNetCore.WebUtilities.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\Microsoft.Data.Tools.Components.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\Microsoft.Data.Tools.Contracts.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\Microsoft.Data.Tools.Schema.Sql.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\Microsoft.Data.Tools.Schema.Tasks.Sql.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\Microsoft.Data.Tools.Schema.Utilities.Sql.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\Microsoft.Data.Tools.Utilities.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\Microsoft.DotNet.PlatformAbstractions.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\Microsoft.Extensions.DependencyModel.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\Microsoft.Extensions.ObjectPool.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\Microsoft.Extensions.Options.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\Microsoft.Extensions.Primitives.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\Microsoft.Net.Http.Headers.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\Microsoft.SqlServer.ConnectionInfo.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\Microsoft.SqlServer.Dac.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\Microsoft.SqlServer.Dac.Extensions.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\Microsoft.SqlServer.SqlClrProvider.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\Microsoft.Web.Infrastructure.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\Newtonsoft.Json.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\sqlpackage.exe
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\System.Buffers.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\System.ComponentModel.Annotations.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\System.Diagnostics.DiagnosticSource.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\System.Memory.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\System.Numerics.Vectors.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\System.Text.Encodings.Web.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\System.Threading.Tasks.Extensions.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\System.Web.Helpers.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\System.Web.Mvc.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\System.Web.Optimization.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\System.Web.Razor.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\System.Web.WebPages.Deployment.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\System.Web.WebPages.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\System.Web.WebPages.Razor.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\WebGrease.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\Microsoft.Build.Framework.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\Microsoft.Build.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\Microsoft.Build.Utilities.Core.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\System.Collections.Immutable.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\System.Threading.Tasks.Dataflow.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\EntityFramework.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\EntityFramework.SqlServer.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\Microsoft.AspNetCore.Authentication.Core.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\Microsoft.AspNetCore.Authorization.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\Microsoft.AspNetCore.Http.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\Microsoft.AspNetCore.Http.Extensions.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\Microsoft.AspNetCore.Mvc.Core.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\Microsoft.AspNetCore.Routing.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\Microsoft.AspNetCore.WebUtilities.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\Microsoft.Extensions.ObjectPool.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\Microsoft.Extensions.Options.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\Microsoft.Extensions.Primitives.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\Microsoft.Net.Http.Headers.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\Microsoft.SqlServer.Dac.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\Microsoft.SqlServer.Dac.Extensions.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\sqlpackage.exe.config
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\System.Buffers.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\System.Diagnostics.DiagnosticSource.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\System.Memory.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\System.Numerics.Vectors.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\System.Text.Encodings.Web.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\System.Threading.Tasks.Extensions.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\System.Web.Mvc.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\System.Web.Helpers.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\System.Web.Optimization.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\System.Web.Razor.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\System.Web.WebPages.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\System.Web.WebPages.Deployment.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\System.Web.WebPages.Razor.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\Newtonsoft.Json.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\Antlr3.Runtime.pdb
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\br\Microsoft.Data.Tools.Components.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\de\Microsoft.Data.Tools.Components.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\es\Microsoft.Data.Tools.Components.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\fr\Microsoft.Data.Tools.Components.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\it\Microsoft.Data.Tools.Components.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\ja\Microsoft.Data.Tools.Components.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\ko\Microsoft.Data.Tools.Components.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\ru\Microsoft.Data.Tools.Components.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\br\Microsoft.Data.Tools.Schema.Sql.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\de\Microsoft.Data.Tools.Schema.Sql.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\es\Microsoft.Data.Tools.Schema.Sql.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\fr\Microsoft.Data.Tools.Schema.Sql.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\it\Microsoft.Data.Tools.Schema.Sql.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\ja\Microsoft.Data.Tools.Schema.Sql.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\ko\Microsoft.Data.Tools.Schema.Sql.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\ru\Microsoft.Data.Tools.Schema.Sql.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\br\Microsoft.Data.Tools.Schema.Tasks.Sql.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\de\Microsoft.Data.Tools.Schema.Tasks.Sql.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\es\Microsoft.Data.Tools.Schema.Tasks.Sql.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\fr\Microsoft.Data.Tools.Schema.Tasks.Sql.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\it\Microsoft.Data.Tools.Schema.Tasks.Sql.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\ja\Microsoft.Data.Tools.Schema.Tasks.Sql.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\ko\Microsoft.Data.Tools.Schema.Tasks.Sql.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\ru\Microsoft.Data.Tools.Schema.Tasks.Sql.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\br\Microsoft.Data.Tools.Schema.Utilities.Sql.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\de\Microsoft.Data.Tools.Schema.Utilities.Sql.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\es\Microsoft.Data.Tools.Schema.Utilities.Sql.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\fr\Microsoft.Data.Tools.Schema.Utilities.Sql.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\it\Microsoft.Data.Tools.Schema.Utilities.Sql.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\ja\Microsoft.Data.Tools.Schema.Utilities.Sql.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\ko\Microsoft.Data.Tools.Schema.Utilities.Sql.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\ru\Microsoft.Data.Tools.Schema.Utilities.Sql.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\br\Microsoft.Data.Tools.Utilities.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\de\Microsoft.Data.Tools.Utilities.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\es\Microsoft.Data.Tools.Utilities.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\fr\Microsoft.Data.Tools.Utilities.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\it\Microsoft.Data.Tools.Utilities.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\ja\Microsoft.Data.Tools.Utilities.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\ko\Microsoft.Data.Tools.Utilities.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\ru\Microsoft.Data.Tools.Utilities.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\br\Microsoft.SqlServer.Dac.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\de\Microsoft.SqlServer.Dac.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\es\Microsoft.SqlServer.Dac.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\fr\Microsoft.SqlServer.Dac.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\it\Microsoft.SqlServer.Dac.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\ja\Microsoft.SqlServer.Dac.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\ko\Microsoft.SqlServer.Dac.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\ru\Microsoft.SqlServer.Dac.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\br\sqlpackage.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\de\sqlpackage.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\es\sqlpackage.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\fr\sqlpackage.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\it\sqlpackage.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\ja\sqlpackage.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\ko\sqlpackage.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\ru\sqlpackage.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\cs\Microsoft.Build.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\de\Microsoft.Build.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\en\Microsoft.Build.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\es\Microsoft.Build.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\fr\Microsoft.Build.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\it\Microsoft.Build.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\ja\Microsoft.Build.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\ko\Microsoft.Build.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\pl\Microsoft.Build.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\pt-BR\Microsoft.Build.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\ru\Microsoft.Build.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\tr\Microsoft.Build.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\zh-Hans\Microsoft.Build.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\zh-Hant\Microsoft.Build.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\cs\Microsoft.Build.Utilities.Core.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\de\Microsoft.Build.Utilities.Core.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\en\Microsoft.Build.Utilities.Core.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\es\Microsoft.Build.Utilities.Core.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\fr\Microsoft.Build.Utilities.Core.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\it\Microsoft.Build.Utilities.Core.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\ja\Microsoft.Build.Utilities.Core.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\ko\Microsoft.Build.Utilities.Core.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\pl\Microsoft.Build.Utilities.Core.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\pt-BR\Microsoft.Build.Utilities.Core.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\ru\Microsoft.Build.Utilities.Core.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\tr\Microsoft.Build.Utilities.Core.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\zh-Hans\Microsoft.Build.Utilities.Core.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\bin\zh-Hant\Microsoft.Build.Utilities.Core.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\obj\Debug\emarket.csprojAssemblyReference.cache
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\obj\Debug\emarket.Migrations.InitialMigration.resources
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\obj\Debug\emarket.Migrations.InitialMigration1.resources
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\obj\Debug\emarket.csproj.GenerateResource.cache
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\obj\Debug\emarket.csproj.CopyComplete
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\obj\Debug\emarket.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\obj\Debug\emarket.pdb
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\emarket\obj\Debug\emarket.Migrations.addingCart.resources
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\emarket.dll.config
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\emarket.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\emarket.pdb
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\roslyn\csc.exe
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\roslyn\csc.exe.config
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\roslyn\csc.rsp
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\roslyn\csi.exe
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\roslyn\csi.exe.config
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\roslyn\csi.rsp
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\roslyn\System.AppContext.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\roslyn\System.Console.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\roslyn\System.IO.Compression.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\roslyn\System.Net.Http.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\roslyn\System.ValueTuple.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\roslyn\vbc.exe
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\roslyn\vbc.exe.config
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\roslyn\vbc.rsp
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\Antlr3.Runtime.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\EntityFramework.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\EntityFramework.SqlServer.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\Microsoft.Data.Tools.Components.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\Microsoft.Data.Tools.Contracts.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\Microsoft.Data.Tools.Schema.Sql.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\Microsoft.Data.Tools.Schema.Tasks.Sql.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\Microsoft.Data.Tools.Schema.Utilities.Sql.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\Microsoft.Data.Tools.Utilities.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\Microsoft.Extensions.Options.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\Microsoft.SqlServer.Dac.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\Microsoft.SqlServer.Dac.Extensions.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\Newtonsoft.Json.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\sqlpackage.exe
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\System.Buffers.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\System.ComponentModel.Annotations.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\System.Memory.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\System.Numerics.Vectors.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\System.Text.Encodings.Web.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\System.Web.Helpers.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\System.Web.Mvc.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\System.Web.Optimization.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\System.Web.Razor.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\System.Web.WebPages.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\WebGrease.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\Microsoft.Build.Framework.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\Microsoft.Build.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\Microsoft.Build.Utilities.Core.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\System.Collections.Immutable.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\System.Threading.Tasks.Dataflow.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\EntityFramework.xml
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\EntityFramework.SqlServer.xml
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\Microsoft.Extensions.Options.xml
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\Microsoft.SqlServer.Dac.xml
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\Microsoft.SqlServer.Dac.Extensions.xml
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\sqlpackage.exe.config
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\System.Buffers.xml
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\System.Memory.xml
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\System.Numerics.Vectors.xml
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\System.Text.Encodings.Web.xml
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\System.Web.Mvc.xml
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\System.Web.Helpers.xml
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\System.Web.Optimization.xml
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\System.Web.Razor.xml
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\System.Web.WebPages.xml
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\Newtonsoft.Json.xml
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\Antlr3.Runtime.pdb
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\br\Microsoft.Data.Tools.Components.resources.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\de\Microsoft.Data.Tools.Components.resources.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\es\Microsoft.Data.Tools.Components.resources.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\fr\Microsoft.Data.Tools.Components.resources.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\it\Microsoft.Data.Tools.Components.resources.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\ja\Microsoft.Data.Tools.Components.resources.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\ko\Microsoft.Data.Tools.Components.resources.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\ru\Microsoft.Data.Tools.Components.resources.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\br\Microsoft.Data.Tools.Schema.Sql.resources.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\de\Microsoft.Data.Tools.Schema.Sql.resources.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\es\Microsoft.Data.Tools.Schema.Sql.resources.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\fr\Microsoft.Data.Tools.Schema.Sql.resources.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\it\Microsoft.Data.Tools.Schema.Sql.resources.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\ja\Microsoft.Data.Tools.Schema.Sql.resources.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\ko\Microsoft.Data.Tools.Schema.Sql.resources.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\ru\Microsoft.Data.Tools.Schema.Sql.resources.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\br\Microsoft.Data.Tools.Schema.Tasks.Sql.resources.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\de\Microsoft.Data.Tools.Schema.Tasks.Sql.resources.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\es\Microsoft.Data.Tools.Schema.Tasks.Sql.resources.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\fr\Microsoft.Data.Tools.Schema.Tasks.Sql.resources.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\it\Microsoft.Data.Tools.Schema.Tasks.Sql.resources.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\ja\Microsoft.Data.Tools.Schema.Tasks.Sql.resources.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\ko\Microsoft.Data.Tools.Schema.Tasks.Sql.resources.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\ru\Microsoft.Data.Tools.Schema.Tasks.Sql.resources.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\br\Microsoft.Data.Tools.Schema.Utilities.Sql.resources.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\de\Microsoft.Data.Tools.Schema.Utilities.Sql.resources.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\es\Microsoft.Data.Tools.Schema.Utilities.Sql.resources.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\fr\Microsoft.Data.Tools.Schema.Utilities.Sql.resources.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\it\Microsoft.Data.Tools.Schema.Utilities.Sql.resources.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\ja\Microsoft.Data.Tools.Schema.Utilities.Sql.resources.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\ko\Microsoft.Data.Tools.Schema.Utilities.Sql.resources.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\ru\Microsoft.Data.Tools.Schema.Utilities.Sql.resources.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\br\Microsoft.Data.Tools.Utilities.resources.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\de\Microsoft.Data.Tools.Utilities.resources.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\es\Microsoft.Data.Tools.Utilities.resources.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\fr\Microsoft.Data.Tools.Utilities.resources.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\it\Microsoft.Data.Tools.Utilities.resources.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\ja\Microsoft.Data.Tools.Utilities.resources.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\ko\Microsoft.Data.Tools.Utilities.resources.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\ru\Microsoft.Data.Tools.Utilities.resources.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\br\Microsoft.SqlServer.Dac.resources.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\de\Microsoft.SqlServer.Dac.resources.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\es\Microsoft.SqlServer.Dac.resources.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\fr\Microsoft.SqlServer.Dac.resources.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\it\Microsoft.SqlServer.Dac.resources.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\ja\Microsoft.SqlServer.Dac.resources.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\ko\Microsoft.SqlServer.Dac.resources.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\ru\Microsoft.SqlServer.Dac.resources.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\br\sqlpackage.resources.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\de\sqlpackage.resources.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\es\sqlpackage.resources.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\fr\sqlpackage.resources.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\it\sqlpackage.resources.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\ja\sqlpackage.resources.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\ko\sqlpackage.resources.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\ru\sqlpackage.resources.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\cs\Microsoft.Build.resources.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\de\Microsoft.Build.resources.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\en\Microsoft.Build.resources.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\es\Microsoft.Build.resources.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\fr\Microsoft.Build.resources.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\it\Microsoft.Build.resources.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\ja\Microsoft.Build.resources.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\ko\Microsoft.Build.resources.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\pl\Microsoft.Build.resources.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\pt-BR\Microsoft.Build.resources.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\ru\Microsoft.Build.resources.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\tr\Microsoft.Build.resources.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\zh-Hans\Microsoft.Build.resources.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\zh-Hant\Microsoft.Build.resources.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\cs\Microsoft.Build.Utilities.Core.resources.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\de\Microsoft.Build.Utilities.Core.resources.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\en\Microsoft.Build.Utilities.Core.resources.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\es\Microsoft.Build.Utilities.Core.resources.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\fr\Microsoft.Build.Utilities.Core.resources.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\it\Microsoft.Build.Utilities.Core.resources.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\ja\Microsoft.Build.Utilities.Core.resources.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\ko\Microsoft.Build.Utilities.Core.resources.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\pl\Microsoft.Build.Utilities.Core.resources.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\pt-BR\Microsoft.Build.Utilities.Core.resources.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\ru\Microsoft.Build.Utilities.Core.resources.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\tr\Microsoft.Build.Utilities.Core.resources.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\zh-Hans\Microsoft.Build.Utilities.Core.resources.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\bin\zh-Hant\Microsoft.Build.Utilities.Core.resources.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\obj\Debug\emarket.csprojAssemblyReference.cache
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\obj\Debug\emarket.csproj.CoreCompileInputs.cache
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\obj\Debug\emarket.csproj.CopyComplete
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\obj\Debug\emarket.dll
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\obj\Debug\emarket.pdb
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\obj\Debug\emarket.Migrations.InitialMigration.resources
+C:\Users\Mario Lawendy\Downloads\New folder (2)\yarb\eeeeeeeeeeeeee\emarket\obj\Debug\emarket.csproj.GenerateResource.cache
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\emarket.dll.config
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\emarket.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\emarket.pdb
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\roslyn\csc.exe
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\roslyn\csc.exe.config
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\roslyn\csc.rsp
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\roslyn\csi.exe
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\roslyn\csi.exe.config
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\roslyn\csi.rsp
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\roslyn\Microsoft.Managed.Core.targets
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\roslyn\System.AppContext.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\roslyn\System.Collections.Immutable.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\roslyn\System.Console.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\roslyn\System.Globalization.Calendars.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\roslyn\System.IO.Compression.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\roslyn\System.IO.FileSystem.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\roslyn\System.Net.Http.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\roslyn\System.Net.Sockets.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\roslyn\System.Reflection.Metadata.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\roslyn\System.ValueTuple.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\roslyn\System.Xml.XmlDocument.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\roslyn\System.Xml.XPath.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\roslyn\vbc.exe
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\roslyn\vbc.exe.config
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\roslyn\vbc.rsp
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\roslyn\VBCSCompiler.exe
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\roslyn\VBCSCompiler.exe.config
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\Antlr3.Runtime.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\EntityFramework.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\EntityFramework.SqlServer.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\Microsoft.AspNetCore.Authentication.Core.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\Microsoft.AspNetCore.Authorization.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\Microsoft.AspNetCore.Http.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\Microsoft.AspNetCore.Http.Extensions.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\Microsoft.AspNetCore.Mvc.Core.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\Microsoft.AspNetCore.Routing.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\Microsoft.AspNetCore.WebUtilities.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\Microsoft.Data.Tools.Components.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\Microsoft.Data.Tools.Contracts.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\Microsoft.Data.Tools.Schema.Sql.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\Microsoft.Data.Tools.Schema.Tasks.Sql.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\Microsoft.Data.Tools.Schema.Utilities.Sql.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\Microsoft.Data.Tools.Utilities.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\Microsoft.DotNet.PlatformAbstractions.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\Microsoft.Extensions.DependencyModel.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\Microsoft.Extensions.ObjectPool.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\Microsoft.Extensions.Options.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\Microsoft.Extensions.Primitives.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\Microsoft.Net.Http.Headers.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\Microsoft.SqlServer.ConnectionInfo.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\Microsoft.SqlServer.Dac.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\Microsoft.SqlServer.Dac.Extensions.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\Microsoft.SqlServer.SqlClrProvider.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\Microsoft.Web.Infrastructure.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\Newtonsoft.Json.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\sqlpackage.exe
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\System.Buffers.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\System.ComponentModel.Annotations.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\System.Diagnostics.DiagnosticSource.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\System.Memory.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\System.Numerics.Vectors.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\System.Text.Encodings.Web.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\System.Threading.Tasks.Extensions.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\System.Web.Helpers.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\System.Web.Mvc.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\System.Web.Optimization.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\System.Web.Razor.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\System.Web.WebPages.Deployment.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\System.Web.WebPages.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\System.Web.WebPages.Razor.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\WebGrease.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\Microsoft.Build.Framework.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\Microsoft.Build.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\Microsoft.Build.Utilities.Core.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\System.Collections.Immutable.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\System.Threading.Tasks.Dataflow.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\EntityFramework.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\EntityFramework.SqlServer.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\Microsoft.AspNetCore.Authentication.Core.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\Microsoft.AspNetCore.Authorization.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\Microsoft.AspNetCore.Http.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\Microsoft.AspNetCore.Http.Extensions.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\Microsoft.AspNetCore.Mvc.Core.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\Microsoft.AspNetCore.Routing.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\Microsoft.AspNetCore.WebUtilities.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\Microsoft.Extensions.ObjectPool.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\Microsoft.Extensions.Options.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\Microsoft.Extensions.Primitives.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\Microsoft.Net.Http.Headers.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\Microsoft.SqlServer.Dac.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\Microsoft.SqlServer.Dac.Extensions.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\sqlpackage.exe.config
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\System.Buffers.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\System.Diagnostics.DiagnosticSource.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\System.Memory.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\System.Numerics.Vectors.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\System.Text.Encodings.Web.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\System.Threading.Tasks.Extensions.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\System.Web.Mvc.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\System.Web.Helpers.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\System.Web.Optimization.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\System.Web.Razor.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\System.Web.WebPages.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\System.Web.WebPages.Deployment.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\System.Web.WebPages.Razor.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\Newtonsoft.Json.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\Antlr3.Runtime.pdb
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\br\Microsoft.Data.Tools.Components.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\de\Microsoft.Data.Tools.Components.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\es\Microsoft.Data.Tools.Components.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\fr\Microsoft.Data.Tools.Components.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\it\Microsoft.Data.Tools.Components.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\ja\Microsoft.Data.Tools.Components.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\ko\Microsoft.Data.Tools.Components.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\ru\Microsoft.Data.Tools.Components.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\br\Microsoft.Data.Tools.Schema.Sql.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\de\Microsoft.Data.Tools.Schema.Sql.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\es\Microsoft.Data.Tools.Schema.Sql.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\fr\Microsoft.Data.Tools.Schema.Sql.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\it\Microsoft.Data.Tools.Schema.Sql.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\ja\Microsoft.Data.Tools.Schema.Sql.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\ko\Microsoft.Data.Tools.Schema.Sql.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\ru\Microsoft.Data.Tools.Schema.Sql.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\br\Microsoft.Data.Tools.Schema.Tasks.Sql.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\de\Microsoft.Data.Tools.Schema.Tasks.Sql.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\es\Microsoft.Data.Tools.Schema.Tasks.Sql.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\fr\Microsoft.Data.Tools.Schema.Tasks.Sql.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\it\Microsoft.Data.Tools.Schema.Tasks.Sql.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\ja\Microsoft.Data.Tools.Schema.Tasks.Sql.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\ko\Microsoft.Data.Tools.Schema.Tasks.Sql.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\ru\Microsoft.Data.Tools.Schema.Tasks.Sql.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\br\Microsoft.Data.Tools.Schema.Utilities.Sql.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\de\Microsoft.Data.Tools.Schema.Utilities.Sql.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\es\Microsoft.Data.Tools.Schema.Utilities.Sql.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\fr\Microsoft.Data.Tools.Schema.Utilities.Sql.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\it\Microsoft.Data.Tools.Schema.Utilities.Sql.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\ja\Microsoft.Data.Tools.Schema.Utilities.Sql.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\ko\Microsoft.Data.Tools.Schema.Utilities.Sql.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\ru\Microsoft.Data.Tools.Schema.Utilities.Sql.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\br\Microsoft.Data.Tools.Utilities.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\de\Microsoft.Data.Tools.Utilities.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\es\Microsoft.Data.Tools.Utilities.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\fr\Microsoft.Data.Tools.Utilities.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\it\Microsoft.Data.Tools.Utilities.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\ja\Microsoft.Data.Tools.Utilities.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\ko\Microsoft.Data.Tools.Utilities.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\ru\Microsoft.Data.Tools.Utilities.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\br\Microsoft.SqlServer.Dac.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\de\Microsoft.SqlServer.Dac.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\es\Microsoft.SqlServer.Dac.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\fr\Microsoft.SqlServer.Dac.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\it\Microsoft.SqlServer.Dac.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\ja\Microsoft.SqlServer.Dac.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\ko\Microsoft.SqlServer.Dac.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\ru\Microsoft.SqlServer.Dac.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\br\sqlpackage.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\de\sqlpackage.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\es\sqlpackage.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\fr\sqlpackage.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\it\sqlpackage.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\ja\sqlpackage.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\ko\sqlpackage.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\ru\sqlpackage.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\cs\Microsoft.Build.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\de\Microsoft.Build.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\en\Microsoft.Build.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\es\Microsoft.Build.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\fr\Microsoft.Build.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\it\Microsoft.Build.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\ja\Microsoft.Build.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\ko\Microsoft.Build.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\pl\Microsoft.Build.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\pt-BR\Microsoft.Build.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\ru\Microsoft.Build.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\tr\Microsoft.Build.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\zh-Hans\Microsoft.Build.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\zh-Hant\Microsoft.Build.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\cs\Microsoft.Build.Utilities.Core.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\de\Microsoft.Build.Utilities.Core.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\en\Microsoft.Build.Utilities.Core.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\es\Microsoft.Build.Utilities.Core.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\fr\Microsoft.Build.Utilities.Core.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\it\Microsoft.Build.Utilities.Core.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\ja\Microsoft.Build.Utilities.Core.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\ko\Microsoft.Build.Utilities.Core.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\pl\Microsoft.Build.Utilities.Core.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\pt-BR\Microsoft.Build.Utilities.Core.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\ru\Microsoft.Build.Utilities.Core.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\tr\Microsoft.Build.Utilities.Core.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\zh-Hans\Microsoft.Build.Utilities.Core.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\bin\zh-Hant\Microsoft.Build.Utilities.Core.resources.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\obj\Debug\emarket.csprojAssemblyReference.cache
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\obj\Debug\emarket.Migrations.InitialMigration.resources
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\obj\Debug\emarket.csproj.GenerateResource.cache
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\obj\Debug\emarket.csproj.CopyComplete
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\obj\Debug\emarket.dll
+D:\kolia\Level 3 _ sec term\internet   Applications   (iA)\Project\Phase 2\E-market\emarket\obj\Debug\emarket.pdb

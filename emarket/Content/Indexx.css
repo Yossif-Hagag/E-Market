@@ -1,0 +1,40 @@
+﻿.nav-item2 {
+    margin-left: 500px;
+}
+
+.modal-header {
+    background-color: #edd0be;
+}
+
+.modal-title {
+    margin: 5px 32%;
+    font-weight: bold;
+}
+
+.table-row {
+    width: 100%;
+}
+
+#row {
+    height: 75px;
+    width: 100%;
+    margin: 10px 0;
+    border: 1px solid #000;
+    font-size: 1.1em;
+}
+
+.btn-row {
+    background-color: #ddd;
+    border-right: 1px solid #000;
+    font-size: 1.3em;
+    color: #f00;
+    font-weight: bold;
+    margin-right: 20px;
+    width: 125px;
+    text-align: center;
+    padding-top: 4%;
+}
+
+#hello {
+    margin-left: 20px;
+}
